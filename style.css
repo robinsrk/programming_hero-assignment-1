@@ -3,33 +3,41 @@ body {
 }
 .menu-bar {
 	text-align: right;
-	margin-bottom: 40px;
+	margin-bottom: 180px;
 	font-size: 30px;
 	margin-right: 70px;
+}
+.menu-bar a {
+	padding: 14px 16px;
 }
 .half-width {
 	width: 40%;
 	float: left;
 	margin-left: 10px;
 	padding-left: 80px;
+	margin-bottom: 150px;
+	font-family: comfortaa;
 }
 .half-width img {
-	width: 80%;
+	width: 100%;
 	padding-left: 100px;
+	margin-bottom: 150px;
+
 }
 .half-width p {
-	font-size: 20px;
+	font-size: 30px;
 }
-.top-bar {
+.half-width h1{
+	font-size: 70px;
+}
+
+.name {
 	height: 500px;
-	font-family: comfortaa;
+
 	font-size: 40px;
 	font-weight: bolder;
 }
-.blue-text {
-	color: blue;
-	font-weight: bold;
-}
+
 .hire-button {
 	padding: 20px 40px;
 	background-image: linear-gradient(45deg, blue, lightblue);
@@ -52,18 +60,34 @@ body {
 	color: black;
 }
 .info-1 {
-	margin-top: 150px;
+	margin-top: 80px;
 	margin-left: 150px;
 }
 .info-2 {
-	margin-top: 100px;
+	margin-top: 40px;
 	margin-left: 180px;
 }
-.middle-elements {
-	height: 500px;
+
+.about {
 	font-family: comfortaa;
 	font-size: 40px;
 	height: 1400px;
+}
+.experience {
+	height: 800px;
+	margin-top: 200px;
+	margin-right: 200px;
+}
+.experience ul {
+	font-size: 20px;
+	font-family: ubuntu;
+}
+.experience a {
+	padding: 20px 40px;
+	text-decoration: none;
+	color: white;
+	background-color: #20c6dc;
+	border-radius: 20px;
 }
 .quarter-width {
 	width: 25%;
@@ -107,30 +131,30 @@ body {
 	box-shadow: 10px 10px 40px grey;
 	background-color: #63d375;
 }
-.third-banner {
+.fourth-banner {
+	height: 800px;
+}
+.project {
+	margin-top: 200px;
 	margin-bottom: 300px;
 }
-.fourth-banner {
+.fifth-banner {
 	background-image: url("./images/shapes/Group_33094_1.png");
 	margin-top: 280px;
-	margin-bottom: 200px;
 	text-align: center;
 	height: 300px;
 	background-size: 800px;
 	background-position: center;
 	background-repeat: no-repeat;
 }
-.fourth-banner img {
-	width: 90px;
-	margin: 80px 450px;
-}
-.fourth-banner h1 {
+
+.fifth-banner h1 {
 	margin: 110px 31%;
 	position: absolute;
 	color: white;
 	font-size: 50px;
 }
-.fourth-banner a {
+.fifth-banner a {
 	position: absolute;
 	margin: 120px 200px;
 	padding: 20px 40px;
@@ -140,6 +164,17 @@ body {
 	text-decoration: none;
 	color: white;
 }
+.cyan-text {
+	color: #32a1f1;
+}
+.blue-text {
+	color: blue;
+	font-weight: bold;
+}
+.orange-text {
+	color: orange;
+}
+
 footer {
 	margin-top: 200px;
 	text-align: center;
