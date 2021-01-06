@@ -1,0 +1,149 @@
+body {
+	margin-right: 50px;
+}
+.menu-bar {
+	text-align: right;
+	margin-bottom: 40px;
+	font-size: 30px;
+	margin-right: 70px;
+}
+.half-width {
+	width: 40%;
+	float: left;
+	margin-left: 10px;
+	padding-left: 80px;
+}
+.half-width img {
+	width: 80%;
+	padding-left: 100px;
+}
+.half-width p {
+	font-size: 20px;
+}
+.top-bar {
+	height: 500px;
+	font-family: comfortaa;
+	font-size: 40px;
+	font-weight: bolder;
+}
+.blue-text {
+	color: blue;
+	font-weight: bold;
+}
+.hire-button {
+	padding: 20px 40px;
+	background-image: linear-gradient(45deg, blue, lightblue);
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.download-button {
+	padding: 20px 40px;
+	background-image: linear-gradient(45deg, orange, tomato);
+	border-radius: 10px;
+	text-decoration: none;
+	color: white;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.menus {
+	text-decoration: none;
+	color: black;
+}
+.info-1 {
+	margin-top: 150px;
+	margin-left: 150px;
+}
+.info-2 {
+	margin-top: 100px;
+	margin-left: 180px;
+}
+.middle-elements {
+	height: 500px;
+	font-family: comfortaa;
+	font-size: 40px;
+	height: 1400px;
+}
+.quarter-width {
+	width: 25%;
+	float: left;
+	border: 0px solid;
+	height: 450px;
+}
+.quarter-width img {
+	width: 100%;
+}
+.title {
+	text-align: center;
+	font-weight: bolder;
+	font-family: comic sans ms;
+	font-size: 40px;
+}
+.pink-text {
+	color: orangered;
+}
+.img-left {
+	margin-left: 130px;
+	margin-right: 20px;
+	padding: 20px 20px 20px 20px;
+	border-radius: 40px;
+	box-shadow: 10px 10px 40px grey;
+	background-color:yellow;
+}
+.img-mid {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px 20px 20px 20px;
+	border-radius: 40px;
+	box-shadow: 10px 10px 40px grey;
+	background-color: #eda841 ;
+}
+.img-right {
+	margin-left: 20px;
+	margin-right: 20px;
+	padding: 20px 20px 20px 20px;
+	border-radius: 40px;
+	box-shadow: 10px 10px 40px grey;
+	background-color: #63d375;
+}
+.third-banner {
+	margin-bottom: 300px;
+}
+.fourth-banner {
+	background-image: url("./images/shapes/Group_33094_1.png");
+	margin-top: 280px;
+	margin-bottom: 200px;
+	text-align: center;
+	height: 300px;
+	background-size: 800px;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.fourth-banner img {
+	width: 90px;
+	margin: 80px 450px;
+}
+.fourth-banner h1 {
+	margin: 110px 31%;
+	position: absolute;
+	color: white;
+	font-size: 50px;
+}
+.fourth-banner a {
+	position: absolute;
+	margin: 120px 200px;
+	padding: 20px 40px;
+	font-size: 20px;
+	border-radius: 20px;
+	background-image: linear-gradient(45deg, orange, tomato);
+	text-decoration: none;
+	color: white;
+}
+footer {
+	margin-top: 200px;
+	text-align: center;
+}
+footer img {
+	width: 40px;
+}
