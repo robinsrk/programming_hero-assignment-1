@@ -9,7 +9,7 @@ body {
 }
 .menu-bar a {
 	padding: 14px 16px;
-		text-decoration: none;
+	text-decoration: none;
 	color: black;
 }
 .half-width {
@@ -24,13 +24,12 @@ body {
 	width: 100%;
 	padding-left: 100px;
 	margin-bottom: 150px;
-
 }
 .half-width p {
 	font-size: 30px;
 	font-family: sofia;
 }
-.half-width h1{
+.half-width h1 {
 	font-size: 70px;
 }
 
@@ -38,7 +37,10 @@ body {
 	height: 500px;
 	font-size: 40px;
 }
-
+.info-1 {
+	margin-top: 80px;
+	margin-left: 150px;
+}
 .hire-button {
 	padding: 20px 40px;
 	background-image: linear-gradient(45deg, blue, lightblue);
@@ -46,6 +48,10 @@ body {
 	text-decoration: none;
 	color: white;
 	font-size: 20px;
+}
+.about {
+	font-size: 40px;
+	height: 1400px;
 }
 .download-button {
 	padding: 20px 40px;
@@ -56,19 +62,13 @@ body {
 	margin-top: 20px;
 	font-size: 20px;
 }
-.info-1 {
-	margin-top: 80px;
-	margin-left: 150px;
-}
+
 .info-2 {
 	margin-top: 40px;
 	margin-left: 180px;
 }
 
-.about {
-	font-size: 40px;
-	height: 1400px;
-}
+
 .experience {
 	height: 800px;
 	margin-top: 200px;
@@ -85,6 +85,12 @@ body {
 	background-image: linear-gradient(45deg, #4188fe, cyan);
 	border-radius: 20px;
 }
+.title {
+	text-align: center;
+	font-weight: bolder;
+	font-family: merienda;
+	font-size: 40px;
+}
 .quarter-width {
 	width: 25%;
 	float: left;
@@ -94,22 +100,15 @@ body {
 .quarter-width img {
 	width: 100%;
 }
-.title {
-	text-align: center;
-	font-weight: bolder;
-	font-family: merienda;
-	font-size: 40px;
-}
-.pink-text {
-	color: orangered;
-}
+
+
 .img-left {
 	margin-left: 130px;
 	margin-right: 20px;
 	padding: 20px 20px 20px 20px;
 	border-radius: 40px;
 	box-shadow: 10px 10px 40px grey;
-	background-color:yellow;
+	background-color: yellow;
 }
 .img-mid {
 	margin-left: 20px;
@@ -117,7 +116,7 @@ body {
 	padding: 20px 20px 20px 20px;
 	border-radius: 40px;
 	box-shadow: 10px 10px 40px grey;
-	background-color: #eda841 ;
+	background-color: #eda841;
 }
 .img-right {
 	margin-left: 20px;
@@ -126,9 +125,6 @@ body {
 	border-radius: 40px;
 	box-shadow: 10px 10px 40px grey;
 	background-color: #63d375;
-}
-.fourth-banner {
-	height: 800px;
 }
 .project {
 	margin-top: 200px;
@@ -171,7 +167,9 @@ body {
 .orange-text {
 	color: orange;
 }
-
+.pink-text {
+	color: orangered;
+}
 footer {
 	margin-top: 100px;
 	text-align: center;
